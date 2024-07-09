@@ -10,7 +10,7 @@ const PreBook = () => {
   return (
     <div className="prebook-container" style={styles.container}>
       <div className="image-container" style={styles.imageContainer}>
-        <img src={redImg} alt="Red Image" className="prebook-image" style={styles.image} />
+        <img src={redImg} alt="Red Bike" className="prebook-image" style={styles.image} />
       </div>
       <div className="form-container" style={styles.formContainer}>
         <h2 style={styles.heading}>Prebook Your Bike</h2>

@@ -18,7 +18,7 @@ const CompareAll = () => {
 
   return (
     <div style={styles.container}>
-      <img src={finalImg} alt="Comparison Image" style={styles.image} />
+      <img src={finalImg} alt="Comparison" style={styles.image} />
       <div style={styles.tableWrapper}>
         <h2 style={styles.header}>Specification</h2>
         <div style={styles.table}>
